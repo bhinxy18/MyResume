@@ -1,0 +1,27 @@
+{
+  "name": "rawbee-resume",
+  "version": "1.0.0",
+  "description": "This is an attempt to publish my resume which will hopefully showcase my programming skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhinxy18/MyResume.git"
+  },
+  "keywords": [
+    "rawbee",
+    "resume"
+  ],
+  "author": "Ruby Lamadora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhinxy18/MyResume/issues"
+  },
+  "homepage": "https://github.com/bhinxy18/MyResume#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  }
+}
